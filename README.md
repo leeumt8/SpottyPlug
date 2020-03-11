@@ -1,2 +1,1 @@
-# SpottyPlug
-SpottyPlug is a Spotify application made with React. Intended for quick implementation on any website.
+SpottyPlug is a Spotify application made with React. Intended for quick implementation on any website. Check out the Heroku link to see it in action!
