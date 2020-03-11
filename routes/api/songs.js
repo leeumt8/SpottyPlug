@@ -4,8 +4,8 @@ const songController = require("../../controllers/songController");
 router.route("/all")
     .get(songController.showAll);
 
-router.route("/")
-    .post(songController.createSong);
+//router.route("/")
+//    .post(songController.createSong);
 
 router.route("/leaderboard")
     .get(songController.showLeaders);
